@@ -1,6 +1,7 @@
 package managers;
 
 import variables.ScopeQuiz;
+import variables.StaticLocalQuiz;
 
 public class VariableManager implements QuizManager {
 
@@ -17,7 +18,7 @@ public class VariableManager implements QuizManager {
                 ScopeQuiz.startQuiz();
                 break;
             case 2:
-                System.out.println("변수 선언 및 초기화 문제는 아직 준비 중입니다.");
+                StaticLocalQuiz.startQuiz();
                 break;
             default:
                 System.out.println("잘못된 선택입니다.");

@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c859e8-621e-49b9-b30b-1301d848dd74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_is_hard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/managers/MainQuizManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/managers/OperatorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/managers/QuizManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/managers/TypeCastingManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/managers/VariableManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/ScopeQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variables/StaticLocalQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/managers/VariableManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/managers/VariableManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727349454140</updated>
-      <workItem from="1727349455246" duration="1682000" />
+      <workItem from="1727349455246" duration="3916000" />
     </task>
     <servers />
   </component>
